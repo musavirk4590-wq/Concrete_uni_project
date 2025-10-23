@@ -29,8 +29,7 @@ This project demonstrates the standard workflow of a regression problem in data 
 
 * Both Linear Regression and Random Forest models were trained to predict concrete compressive strength.
 * The Random Forest Regressor achieved a significantly higher R-squared score on the test set, indicating it provided a better fit to the data compared to the Linear Regression model in this case.
-* *(Optional: Add specific R-squared scores here)*
-
+* 
 ## How to Run
 
 1.  Clone this repository.
